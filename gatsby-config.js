@@ -1,25 +1,32 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter Course",
-    subtitle: "For making great content",
-    author: "Your Name Here",
-    authorSubtitle: "Company Here",
-    authorImage: "author.jpg", // this image should go in /static
+    title: "Git & Docker Workshop",
+    subtitle: "",
+    author: "Muhammad Hasham Khalid",
+    authorSubtitle: "Associate Consultant @ Systems Ltd.",
+    authorImage: "author.jpeg", // this image should go in /static
     courseImage: "courseImage.png", // this also should go in /static
-    twitter: "https://twitter.com/holtbt", // make empty string to omit socials
-    linkedin: "https://linkedin.com/in/btholt",
-    github: "https://github.com/btholt",
+    twitter: "https://twitter.com/hashiinngg", // make empty string to omit socials
+    linkedin: "https://linkedin.com/in/mhashamk",
+    github: "https://github.com/Muhammad-Hasham-Khalid",
     description:
-      "This is the description that will show up when people share as well as on search engines",
+      "I am a software engineer, eager to learn and work on modern technologies for building and deploying fast, elegant and performant applications. I am mostly interested in mobile and web application development alongside with exploring cutting-edge technologies like Blockchain, Cloud Computing etc.",
     keywords: [
-      "this is",
-      "a list of keywords and phrase",
-      "that search engines",
-      "will index your page for",
+      "hasham khalid",
+      "muhammad hasham",
+      "muhammad hasham khalid",
+      "Muhammad-Hasham-Khalid",
+      "hashiinngg",
+      "software-engineer",
+      "speaker",
+      "github",
+      "git",
+      "docker",
+      "NED",
+      "NED university",
     ],
   },
   pathPrefix: "",
-  // pathPrefix: "/my-repo-name", // if you're using GitHub Pages, put the name of the repo here with a leading slash
   plugins: [
     {
       resolve: "gatsby-plugin-react-svg",

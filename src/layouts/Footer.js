@@ -12,21 +12,21 @@ export default function Footer({ twitter, linkedin, github }) {
       <ul className="socials">
         {twitter ? (
           <li className="social">
-            <a href="https://twitter.com/holtbt">
+            <a href={twitter}>
               <Tw />
             </a>
           </li>
         ) : null}
         {github ? (
           <li className="social">
-            <a href="https://github.com/btholt">
+            <a href={github}>
               <Gh />
             </a>
           </li>
         ) : null}
         {linkedin ? (
           <li className="social">
-            <a href="https://linkedin.com/in/btholt">
+            <a href={linkedin}>
               <Li />
             </a>
           </li>
