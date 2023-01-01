@@ -1,0 +1,9 @@
+order,title,link0,link1,link2,link3,link4,link5
+1A,What is Git?,,,,,,
+1B,Git Installation & Setup,https://git-scm.com/,,,,,
+1C,Git Commands,,,,,,
+2A,What is Docker & Why it is used?,,,,,,
+2B,Docker Commands,https://docs.docker.com/get-started/docker_cheatsheet.pdf,,,,,
+3A,Git Quiz,,,,,,
+3B,Docker Quiz,,,,,,
+4A,Conclusion & Resources,https://ohshitgit.com/,https://www.youtube.com/@BretFisher,https://bit.ly/all-in-1-resources,https://frontendmasters.com,https://www.udemy.com/course/docker-mastery/,https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/

@@ -1,0 +1,9 @@
+path,title,order,section,description,icon
+"/what-is-git","What is Git?","1A","Introduction to Git","Introduction to git and git installation.","dumpster-fire"
+"/git-installation","Git Installation & Setup","1B","Introduction to Git",,
+"/git-commands","Git Commands","1C","Introduction to Git",,
+"/docker-introduction","What is Docker & Why it is used?","2A","Introduction to Docker",,
+"/docker-commands","Docker Commands","2B","Introduction to Docker",,
+"/git-quiz","Git Quiz","3A","Final Quiz",,
+"/docker-quiz","Docker Quiz","3B","Final Quiz",,
+"/conclusion","Conclusion & Resources","4A","Conclusion",,
